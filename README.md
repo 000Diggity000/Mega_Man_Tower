@@ -1,5 +1,5 @@
 <a href="https://github.com/000Diggity000/Mega_Man_Tower/releases/download/btd6/Mega.Man.dll">
-    <img align="left" alt="Icon" height="90" src="icon.png">
+    <img align="left" alt="Icon" height="90" src="portrait.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
