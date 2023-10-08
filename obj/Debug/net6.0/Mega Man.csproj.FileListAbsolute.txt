@@ -1,0 +1,12 @@
+P:\btd6 mod\Mega Man\Mega Man\bin\Debug\net6.0\Mega Man.deps.json
+P:\btd6 mod\Mega Man\Mega Man\bin\Debug\net6.0\Mega Man.dll
+P:\btd6 mod\Mega Man\Mega Man\bin\Debug\net6.0\ref\Mega Man.dll
+P:\btd6 mod\Mega Man\Mega Man\bin\Debug\net6.0\Mega Man.pdb
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.csproj.AssemblyReference.cache
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.GeneratedMSBuildEditorConfig.editorconfig
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.AssemblyInfoInputs.cache
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.AssemblyInfo.cs
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.csproj.CoreCompileInputs.cache
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.dll
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\ref\Mega Man.dll
+P:\btd6 mod\Mega Man\Mega Man\obj\Debug\net6.0\Mega Man.pdb
