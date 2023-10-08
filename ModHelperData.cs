@@ -10,7 +10,7 @@ namespace Mega_Man
     {
         public const string Name = "Mega Man";
         public const string Description = "This mod adds the Mega Man tower. It has a custom model and 1 path.\n" +
-            "If you want me to make more paths or make blance changes DM me on Discord: @000diggity000";
+            "If you want me to make more paths or make balance changes DM me on Discord: @000diggity000";
         public const string Version = "1.0.0";
         public const string WorksOnVersion = "38";
         public const string Icon = "portrait.png";
